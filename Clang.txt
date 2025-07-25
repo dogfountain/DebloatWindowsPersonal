@@ -1,0 +1,1 @@
+clang debloat.c modules/tweaks.c modules/setManual.c modules/disableFeatures.c -o Debloat.exe
